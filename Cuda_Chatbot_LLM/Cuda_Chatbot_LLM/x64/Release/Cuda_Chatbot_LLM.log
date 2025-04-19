@@ -1,0 +1,9 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  D:\CUDA Projects\Chatbot Response Acceleration with CUDA LLM Inference\Cuda_Chatbot_LLM>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\bin\nvcc.exe" -gencode=arch=compute_52,code=\"sm_52,compute_52\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.40.33807\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v12.4\include"     --keep-dir Cuda_Chatbot_LLM\x64\Release  -maxrregcount=0   --machine 64 --compile -cudart static    -DWIN32 -DWIN64 -DNDEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /O2 /FS   /MD " -Xcompiler "/FdCuda_Chatbot_LLM\x64\Release\vc143.pdb" -o "D:\CUDA Projects\Chatbot Response Acceleration with CUDA LLM Inference\Cuda_Chatbot_LLM\Cuda_Chatbot_LLM\x64\Release\kernel.cu.obj" "D:\CUDA Projects\Chatbot Response Acceleration with CUDA LLM Inference\Cuda_Chatbot_LLM\kernel.cu" 
+  kernel.cu
+  tmpxft_00008efc_00000000-7_kernel.cudafe1.cpp
+     Creating library D:\CUDA Projects\Chatbot Response Acceleration with CUDA LLM Inference\Cuda_Chatbot_LLM\x64\Release\Cuda_Chatbot_LLM.lib and object D:\CUDA Projects\Chatbot Response Acceleration with CUDA LLM Inference\Cuda_Chatbot_LLM\x64\Release\Cuda_Chatbot_LLM.exp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  LINK : /LTCG specified but no code generation required; remove /LTCG from the link command line to improve linker performance
+  Cuda_Chatbot_LLM.vcxproj -> D:\CUDA Projects\Chatbot Response Acceleration with CUDA LLM Inference\Cuda_Chatbot_LLM\x64\Release\Cuda_Chatbot_LLM.exe

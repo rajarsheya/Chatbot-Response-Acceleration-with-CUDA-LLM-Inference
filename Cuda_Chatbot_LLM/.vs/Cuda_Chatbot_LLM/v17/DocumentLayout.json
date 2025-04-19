@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CUDA Projects\\Chatbot Response Acceleration with CUDA LLM Inference\\Cuda_Chatbot_LLM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{997BD9EA-3AE4-47EC-A91E-4A5B7DBDBEDF}|Cuda_Chatbot_LLM.vcxproj|D:\\CUDA Projects\\Chatbot Response Acceleration with CUDA LLM Inference\\Cuda_Chatbot_LLM\\kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{997BD9EA-3AE4-47EC-A91E-4A5B7DBDBEDF}|Cuda_Chatbot_LLM.vcxproj|solutionrelative:kernel.cu||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 375,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "kernel.cu",
+              "DocumentMoniker": "D:\\CUDA Projects\\Chatbot Response Acceleration with CUDA LLM Inference\\Cuda_Chatbot_LLM\\kernel.cu",
+              "RelativeDocumentMoniker": "kernel.cu",
+              "ToolTip": "D:\\CUDA Projects\\Chatbot Response Acceleration with CUDA LLM Inference\\Cuda_Chatbot_LLM\\kernel.cu",
+              "RelativeToolTip": "kernel.cu",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-12T02:55:58.755Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
